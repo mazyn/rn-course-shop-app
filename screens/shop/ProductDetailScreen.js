@@ -43,8 +43,10 @@ const styles = StyleSheet.create({
     color: '#888',
     textAlign: 'center',
     marginVertical: 20,
+    fontFamily: 'raleway-bold',
   },
   description: {
+    fontFamily: 'raleway',
     fontSize: 14,
     textAlign: 'center',
     marginHorizontal: 20,

@@ -85,10 +85,12 @@ const styles = StyleSheet.create({
     padding: 10,
   },
   title: {
+    fontFamily: 'raleway-bold',
     fontSize: 18,
-    marginVertical: 4,
+    paddingVertical: 4,
   },
   price: {
+    fontFamily: 'raleway',
     fontSize: 14,
     color: '#888',
   },
